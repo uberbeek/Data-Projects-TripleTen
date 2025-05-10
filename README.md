@@ -24,13 +24,13 @@ Below is a list of my completed projects, each housed in its own repository for 
   Time series regression project using linear models, random forests, and ARIMA to forecast hourly taxi demand and identify key seasonal trends.
 
 - [Sprint 12 Project: Numerical Methods for Car Price Prediction](https://github.com/uberbeek/sprint-12-numerical-methods)  
-  Regression project comparing linear regression, random forest, LGBM, and CatBoost to predict used car prices while balancing speed and accuracy.
+  Trained and optimized regression models to predict used car prices, balancing RMSE, training time, and inference speed to recommend the best solution.
 
 - [Sprint 11 Project: Linear Algebra Applications](https://github.com/uberbeek/sprint-11-linear-algebra)  
-  Linear regression project using matrix algebra to predict insurance benefit usage, including data obfuscation techniques to preserve client privacy.
+  Linear algebra project using kNN and linear regression to analyze insurance data, predict benefit use, and protect privacy through obfuscation.
 
 - [Sprint 10 Project: Industrial Gold Recovery Optimization](https://github.com/uberbeek/sprint-10-integrated-project-2)  
-  Regression project modeling gold ore purification to predict final and rougher recovery, optimize process stages, and reduce economic loss.
+  Supervised regression project modeling gold recovery from ore using industrial process data, with a focus on data cleaning, feature selection, and sMAPE-based model evaluation.
 
 - [Sprint 9 Project: Oil Reserve Estimation and Risk Analysis](https://github.com/uberbeek/sprint-09-ml-business)  
   Trained regression models to predict oil reserves and evaluated profit and risk across regions using bootstrapping to recommend the most lucrative drilling location.
@@ -44,17 +44,17 @@ Below is a list of my completed projects, each housed in its own repository for 
 - [Sprint 6 Project: SQL-Based Taxi Ride Analysis](https://github.com/uberbeek/sprint-06-sql-storage)  
   SQL-based analysis of Chicago taxi ride data to uncover neighborhood patterns and test the impact of weather on ride durations.
 
-- [Sprint 5 Project: SQL Taxi Ride Analysis](https://github.com/uberbeek/sprint-05-integrated-project-1)  
-  SQL-based analysis of Chicago taxi ride data to uncover neighborhood patterns and test the impact of weather on ride durations.
+- [Sprint 5 Project: Exploratory Game Sales Analysis](https://github.com/uberbeek/sprint-05-integrated-project-1)  
+  Exploratory analysis of global video game sales to identify platform, genre, and review score patterns that predict commercial success.
 
 - [Sprint 4 Project: Vehicle Advertisement Web App](https://github.com/uberbeek/sprint-04-dev-tools)  
   Developed and deployed a Streamlit web app for exploring vehicle advertisement data by price, mileage, condition, and more.
 
-- [Sprint 3 Project: Exploratory Game Sales Analysis](https://github.com/uberbeek/sprint-03-statistics)  
-  Exploratory analysis of global video game sales to identify platform, genre, and review score patterns that predict commercial success.
+- [Sprint 3 Project: Statistical Mobile Plan Analysis](https://github.com/uberbeek/sprint-03-statistics)  
+  Statistical analysis of mobile plan usage and revenue data to compare customer behavior across regions and plans.
 
 - [Sprint 2 Project: Exploratory Data Analysis of Online Retail Data](https://github.com/uberbeek/sprint-02-eda)  
-  Performed exploratory data analysis on online retail data to uncover customer purchasing behaviors and sales trends.
+  Exploratory analysis of Instacart grocery data to uncover customer shopping patterns and ordering behaviors.
 
 - [Sprint 1 Project: Python Basics with IMDb Data](https://github.com/uberbeek/sprint-01-python-basics)  
   An analysis of IMDb data exploring whether highly-rated TV shows from the “Golden Age” (1999–present) also receive the most user votes.
