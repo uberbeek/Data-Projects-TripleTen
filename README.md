@@ -32,25 +32,25 @@ Below is a list of my completed projects, each housed in its own repository for 
 - [Sprint 10 Project: Industrial Gold Recovery Optimization](https://github.com/uberbeek/sprint-10-integrated-project-2)  
   Regression project modeling gold ore purification to predict final and rougher recovery, optimize process stages, and reduce economic loss.
 
-- [Sprint 9 Project: Oil Reserve Estimation and Risk Analysis](https://github.com/uberbeek/sprint-09-oil-reserves)  
+- [Sprint 9 Project: Oil Reserve Estimation and Risk Analysis](https://github.com/uberbeek/sprint-09-ml-business)  
   Trained regression models to predict oil reserves and evaluated profit and risk across regions using bootstrapping to recommend the most lucrative drilling location.
 
 - [Sprint 8 Project: Supervised Learning for Customer Retention](https://github.com/uberbeek/sprint-08-supervised-learning)  
   Classification project using logistic regression, decision trees, and random forests to predict mobile plan type, with a focus on imbalanced class handling and model tuning.
 
-- [Sprint 7 Project: Mobile Plan Classification](https://github.com/uberbeek/sprint-07-classification)  
+- [Sprint 7 Project: Mobile Plan Classification](https://github.com/uberbeek/sprint-07-ml-intro)  
   Supervised learning project using decision trees and random forests to predict mobile plan type from customer behavior patterns.
 
 - [Sprint 6 Project: SQL-Based Taxi Ride Analysis](https://github.com/uberbeek/sprint-06-sql-storage)  
   SQL-based analysis of Chicago taxi ride data to uncover neighborhood patterns and test the impact of weather on ride durations.
 
-- [Sprint 5 Project: SQL Taxi Ride Analysis](https://github.com/uberbeek/sprint-05-sql-taxi-project)  
+- [Sprint 5 Project: SQL Taxi Ride Analysis](https://github.com/uberbeek/sprint-05-integrated-project-1)  
   SQL-based analysis of Chicago taxi ride data to uncover neighborhood patterns and test the impact of weather on ride durations.
 
 - [Sprint 4 Project: Vehicle Advertisement Web App](https://github.com/uberbeek/sprint-04-dev-tools)  
   Developed and deployed a Streamlit web app for exploring vehicle advertisement data by price, mileage, condition, and more.
 
-- [Sprint 3 Project: Exploratory Game Sales Analysis](https://github.com/uberbeek/sprint-03-videogames)  
+- [Sprint 3 Project: Exploratory Game Sales Analysis](https://github.com/uberbeek/sprint-03-statistics)  
   Exploratory analysis of global video game sales to identify platform, genre, and review score patterns that predict commercial success.
 
 - [Sprint 2 Project: Exploratory Data Analysis of Online Retail Data](https://github.com/uberbeek/sprint-02-eda)  
